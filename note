@@ -1,0 +1,7 @@
+coupons
+id;
+code;
+status; 
+issue_date;
+expiry_date;
+
